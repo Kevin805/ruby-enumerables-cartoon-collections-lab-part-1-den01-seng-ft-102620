@@ -5,6 +5,5 @@ end
 end
 
 def list_dwarves(array)
- array.each_with_index do |dwarves|
-   puts 
+ array.each_index
 end
